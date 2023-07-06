@@ -9,3 +9,4 @@ This repository is built step by step in the tutorial.
 added news
 
 added aga
+append to main
